@@ -11,3 +11,4 @@ class MyApp < Sinatra::Base
     erb :page2
 
 end
+end
